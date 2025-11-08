@@ -106,15 +106,16 @@ You must first run the `graph_builder.py` script. This will read the static map 
 
 ```bash
 # From the project's root folder:
-python src/graph_builder.py
+cd src
+python graph_builder.py
 ```
 
 ### Step 2: Run the Main Program
 Once the .json file exists, you can run the main interactive tool.
 
 ```Bash
-# From the project's root folder:
-python src/main.py
+# From the project's src folder:
+python main.py
 ```
 
 ## How to Use: The "What-If" Analysis Tool
