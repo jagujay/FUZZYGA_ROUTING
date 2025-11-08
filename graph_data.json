@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "label": "A"
+        },
+        {
+            "id": 1,
+            "label": "B"
+        },
+        {
+            "id": 2,
+            "label": "C"
+        },
+        {
+            "id": 3,
+            "label": "D"
+        },
+        {
+            "id": 4,
+            "label": "E"
+        },
+        {
+            "id": 5,
+            "label": "F"
+        },
+        {
+            "id": 6,
+            "label": "G"
+        },
+        {
+            "id": 7,
+            "label": "H"
+        },
+        {
+            "id": 8,
+            "label": "I"
+        },
+        {
+            "id": 9,
+            "label": "J"
+        },
+        {
+            "id": 10,
+            "label": "K"
+        },
+        {
+            "id": 11,
+            "label": "L"
+        },
+        {
+            "id": 12,
+            "label": "M"
+        },
+        {
+            "id": 13,
+            "label": "N"
+        },
+        {
+            "id": 14,
+            "label": "O"
+        },
+        {
+            "id": 15,
+            "label": "P"
+        },
+        {
+            "id": 16,
+            "label": "Q"
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 11,
+            "distance": 8
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "distance": 5
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "distance": 4
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "distance": 4
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "distance": 7
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "distance": 3
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "distance": 5
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "distance": 7
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "distance": 6
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "distance": 5
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "distance": 1
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "distance": 8
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "distance": 6
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "distance": 3
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "distance": 8
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "distance": 10
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "distance": 9
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "distance": 14
+        },
+        {
+            "source": 8,
+            "target": 12,
+            "distance": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "distance": 6
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "distance": 10
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "distance": 2
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "distance": 3
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "distance": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "distance": 4
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "distance": 1
+        }
+    ],
+    "positions": {
+        "0": [
+            5,
+            15
+        ],
+        "1": [
+            5,
+            10
+        ],
+        "2": [
+            5,
+            5
+        ],
+        "3": [
+            5,
+            0
+        ],
+        "4": [
+            7,
+            15
+        ],
+        "5": [
+            7,
+            10
+        ],
+        "6": [
+            7,
+            5
+        ],
+        "7": [
+            7,
+            0
+        ],
+        "8": [
+            9,
+            12.5
+        ],
+        "9": [
+            9,
+            7.5
+        ],
+        "10": [
+            9,
+            2.5
+        ],
+        "11": [
+            3,
+            7.5
+        ],
+        "12": [
+            11,
+            10
+        ],
+        "13": [
+            11,
+            5
+        ],
+        "14": [
+            13,
+            12.5
+        ],
+        "15": [
+            13,
+            7.5
+        ],
+        "16": [
+            13,
+            2.5
+        ]
+    }
+}
